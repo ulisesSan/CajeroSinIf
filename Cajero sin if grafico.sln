@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cajero sin if grafico", "Cajero sin if grafico\Cajero sin if grafico.csproj", "{99F3680F-9238-4F7C-9975-23114B227F8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99F3680F-9238-4F7C-9975-23114B227F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F3680F-9238-4F7C-9975-23114B227F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F3680F-9238-4F7C-9975-23114B227F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F3680F-9238-4F7C-9975-23114B227F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {444F5291-5B64-46B3-AB90-8D01F7E933B7}
+	EndGlobalSection
+EndGlobal

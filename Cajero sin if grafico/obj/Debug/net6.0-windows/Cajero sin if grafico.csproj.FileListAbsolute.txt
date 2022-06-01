@@ -1,0 +1,17 @@
+C:\Users\Ulises Caceres\source\repos\Cajero sin if grafico\Cajero sin if grafico\bin\Debug\net6.0-windows\Cajero sin if grafico.exe
+C:\Users\Ulises Caceres\source\repos\Cajero sin if grafico\Cajero sin if grafico\bin\Debug\net6.0-windows\Cajero sin if grafico.deps.json
+C:\Users\Ulises Caceres\source\repos\Cajero sin if grafico\Cajero sin if grafico\bin\Debug\net6.0-windows\Cajero sin if grafico.runtimeconfig.json
+C:\Users\Ulises Caceres\source\repos\Cajero sin if grafico\Cajero sin if grafico\bin\Debug\net6.0-windows\Cajero sin if grafico.dll
+C:\Users\Ulises Caceres\source\repos\Cajero sin if grafico\Cajero sin if grafico\bin\Debug\net6.0-windows\Cajero sin if grafico.pdb
+C:\Users\Ulises Caceres\source\repos\Cajero sin if grafico\Cajero sin if grafico\obj\Debug\net6.0-windows\Cajero sin if grafico.csproj.AssemblyReference.cache
+C:\Users\Ulises Caceres\source\repos\Cajero sin if grafico\Cajero sin if grafico\obj\Debug\net6.0-windows\Cajero_sin_if_grafico.Form1.resources
+C:\Users\Ulises Caceres\source\repos\Cajero sin if grafico\Cajero sin if grafico\obj\Debug\net6.0-windows\Cajero sin if grafico.csproj.GenerateResource.cache
+C:\Users\Ulises Caceres\source\repos\Cajero sin if grafico\Cajero sin if grafico\obj\Debug\net6.0-windows\Cajero sin if grafico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ulises Caceres\source\repos\Cajero sin if grafico\Cajero sin if grafico\obj\Debug\net6.0-windows\Cajero sin if grafico.AssemblyInfoInputs.cache
+C:\Users\Ulises Caceres\source\repos\Cajero sin if grafico\Cajero sin if grafico\obj\Debug\net6.0-windows\Cajero sin if grafico.AssemblyInfo.cs
+C:\Users\Ulises Caceres\source\repos\Cajero sin if grafico\Cajero sin if grafico\obj\Debug\net6.0-windows\Cajero sin if grafico.csproj.CoreCompileInputs.cache
+C:\Users\Ulises Caceres\source\repos\Cajero sin if grafico\Cajero sin if grafico\obj\Debug\net6.0-windows\Cajero sin if grafico.dll
+C:\Users\Ulises Caceres\source\repos\Cajero sin if grafico\Cajero sin if grafico\obj\Debug\net6.0-windows\refint\Cajero sin if grafico.dll
+C:\Users\Ulises Caceres\source\repos\Cajero sin if grafico\Cajero sin if grafico\obj\Debug\net6.0-windows\Cajero sin if grafico.pdb
+C:\Users\Ulises Caceres\source\repos\Cajero sin if grafico\Cajero sin if grafico\obj\Debug\net6.0-windows\Cajero sin if grafico.genruntimeconfig.cache
+C:\Users\Ulises Caceres\source\repos\Cajero sin if grafico\Cajero sin if grafico\obj\Debug\net6.0-windows\ref\Cajero sin if grafico.dll
